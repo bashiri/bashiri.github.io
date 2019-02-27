@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I am Assistant Professor at Hamedan University of Technology, Department of Computer Science. I have also worked as project and human resource manager for von waldkirch PR&NEW MEDIA GmbH, Suisse, Hamedan branch since 2013 to 2017.
 
-email: agus[at]python.web.id
+email: bashiri[at]hut.acir/gmail.com
