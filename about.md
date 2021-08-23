@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am Assistant Professor at Hamedan University of Technology, Department of Computer Science. I have also worked as project and human resource manager for von waldkirch PR&NEW MEDIA GmbH, Suisse, Hamedan branch since 2013 to 2017.
+I am the Assistant Professor at the Hamedan University of Technology, Department of Computer Science. As a researcher, I am working on complex systems and agent-based modeling in the domain of social sciences and AI.
 
 email: bashiri[at]hut.acir/gmail.com
